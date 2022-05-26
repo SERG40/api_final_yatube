@@ -2,10 +2,10 @@
 ### Описание
 API для Yatube
 ### Технологии
-Django 2.2.16
-djangorestframework
-djangorestframework-simplejwt
-requests
+ - Django 2.2.16
+ - djangorestframework
+ - djangorestframework-simplejwt
+ - requests
 ### Запуск проекта в dev-режиме
 - Установите и активируйте виртуальное окружение
  ```
