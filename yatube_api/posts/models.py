@@ -57,4 +57,4 @@ class Follow(models.Model):
         ]
 
     def __str__(self):
-        return '{} follows {}'.format(self.user, self.following)
+        return f'{self.user} follows {self.following}'
